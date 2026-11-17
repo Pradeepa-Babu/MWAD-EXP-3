@@ -339,6 +339,7 @@ button:hover {
 
 ## OUTPUT
 
+<img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/867cf63c-4587-4c1e-ae0a-afd47f79fb09" />
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
